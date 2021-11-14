@@ -1,0 +1,22 @@
+{% extends "base.html" %} {% block title %}Recept{% endblock %}
+{% block content%}
+
+
+<h1 class="title">Recept</h1>
+
+<div class="all-recipe">
+    <h2>{{info["name"]}}</h2>
+    <ul>
+        {% for items in info["resource"]%}
+        <li class="item">{{items}} {{info["resource"][items]}}</li>
+        {% endfor %}
+    </ul>
+    <br>
+    <p>{{info["procedure"]}}</p>
+    <br>
+    <a href="{{info['url']}}">{{info['url']}}</a>
+</div>
+
+<a href="/">Zpet</a>
+<a href="/update/{{food}}">Uvarit</a>
+{% endblock %}

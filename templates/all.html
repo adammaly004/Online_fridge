@@ -1,0 +1,27 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %}
+{% block content%}
+<header>
+    <h2>Všechny recepty</h2>
+</header>
+<section>
+    {% for recipe in recipes %}
+    <div class="all-recipe">
+        <h3>{{recipe["name"]}}</h3>
+        <ul class="ul-all">
+            {% for ing in recipe["resource"] %}
+            <li>
+                {{ing}}
+            </li>
+            {%endfor%}
+        </ul>
+        <p>{{recipe['procedure']}}</p>
+        <br>
+        <a href="{{recipe['url']}}">{{recipe['url']}}</a>
+    </div>
+    {%endfor%}
+</section>
+
+
+
+
+{% endblock %}

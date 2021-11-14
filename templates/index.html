@@ -1,0 +1,53 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %}
+{% block content%}
+
+<header>
+    <h1 class="title">Nevíš co vařit?</h1>
+    <h1 class="title">My to vymyslíme za tebe</h1>
+    <div class="button">
+        <a class="btn-text" href="#fridge">začínáme</a>
+    </div>
+    <div class="main-image">
+        <img src="../static/foodplate.jpg" alt="food plate">
+    </div>
+</header>
+<br id="fridge"></br>
+<section class="section-one">
+    <div class="left">
+        <h2 class="title-two">Moje Lednice</h2>
+        <div class="fridge">
+            {% for item, num in fridge%}
+            <div class="ingredience">
+                <a class="item">{{item}} {{num}}</a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="right">
+        <img src="https://st2.depositphotos.com/3903847/5567/v/600/depositphotos_55674119-stock-illustration-open-fridge.jpg"
+            alt="">
+    </div>
+</section>
+<section class="section-two">
+    <div style="margin-top:0px;" class="right">
+        <img style="margin-top:0px;" src="/static/foodbag.jpg" alt="shopping bag">
+    </div>
+    <div class="left">
+        <h2 class="title-two">Přidej nové suroviny</h2>
+        <div class="form">
+            <form method="POST">
+                <input class="input input-text" name="text" type="text" autocomplete="off">
+                <input class="input input-number" name="num" type="number">
+                <button>přidat</button>
+            </form>
+        </div>
+    </div>
+</section>
+
+<div class="recipes">
+    {% for item in food%}
+    <a href="/info/{{item['name']}}">{{item["name"]}}</a>
+    {% endfor %}
+</div>
+<br><br><br><br><br>
+{% endblock %}
