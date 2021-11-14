@@ -1,5 +1,7 @@
 # Online Fridge
 
+This web project will offer you something to cook according to the ingredients you have in the fridge. The website is written in Czech, because it serves my purposes.
+
 ## Setup & Installation
 - Ensure you have python 3.6+ installed.
 
