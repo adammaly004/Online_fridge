@@ -171,6 +171,27 @@ input[type="number"] {
     width: 30px;
 }
 
+.info {
+    position: relative;
+    bottom: 180px;
+    left: 1000px;
+    max-width: 100px;
+}
+
+span {
+    font-size: 50px;
+}
+.info-label p {
+    font-size: 15px;
+}
+.info-label *{
+    display: none;
+}
+span:hover .info-label *{
+    display: block;
+}
+
+
 
 /* all.html */
 
@@ -180,4 +201,10 @@ input[type="number"] {
 
 .ul-all {
     margin: 20px 0px;
+}
+
+
+
+.all-image {
+    width:400px;
 }

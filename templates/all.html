@@ -7,14 +7,18 @@
     {% for recipe in recipes %}
     <div class="all-recipe">
         <h3>{{recipe["name"]}}</h3>
-        <ul class="ul-all">
-            {% for ing in recipe["resource"] %}
-            <li>
-                {{ing}}
-            </li>
-            {%endfor%}
-        </ul>
+        <div class="section">
+            <ul class="ul-all">
+                {% for ing in recipe["resource"] %}
+                <li>
+                    {{ing}} {{recipe['resource'][ing]}}
+                </li>
+                {%endfor%}
+            </ul>
+            <img class="all-image" src="{{recipe['img']}}" alt="image">
+        </div>
         <p>{{recipe['procedure']}}</p>
+
         <br>
         <a href="{{recipe['url']}}">{{recipe['url']}}</a>
     </div>

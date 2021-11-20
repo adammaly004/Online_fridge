@@ -3,7 +3,7 @@ import re
 from utils import open_file
 
 # Constants
-URL = "https://www.recepty.cz/recept/bolonske-spagety-4270"
+URL = "https://www.recepty.cz/recept/jednoducha-rajska-omacka-155495"
 PATH = "C:\Program Files (x86)\chromedriver.exe"
 
 # Set up driver
@@ -11,7 +11,7 @@ driver = webdriver.Chrome(PATH)
 driver.get(URL)
 
 # Load resource list (json file)
-RESOURCE_LIST = open_file('resource.json')
+RESOURCE_LIST = open_file('data/resource.json')
 
 
 # Format split text with resource
@@ -93,17 +93,23 @@ for i in resource:
     res_dict.update({ing: num})
 
 
+img = driver.find_element_by_xpath(
+    "/html/body/div[3]/div/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a/img").get_attribute('src')
+
+
 # Create final dictioary
 RESOURCE = {"name": title,
             "resource": res_dict,
             "procedure": proces,
+            "img": img,
             "url": URL}
+
 
 # Display new resource
 print(RESOURCE)
 
 # Update and save resource list
 RESOURCE_LIST.append(RESOURCE)
-open_file('resource.json', "w", RESOURCE_LIST)
+open_file('data/resource.json', "w", RESOURCE_LIST)
 
 driver.close()

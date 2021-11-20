@@ -6,8 +6,8 @@ app.static_folder = 'static'
 app.secret_key = b'_5#y2L"F4Q8z\n\xec]/'
 
 
-FRIDGE = open_file('fridge.json')
-RECIPES = open_file('resource.json')
+FRIDGE = open_file('data/fridge.json')
+RECIPES = open_file('data/resource.json')
 
 
 c = Cook(RECIPES, FRIDGE)
@@ -20,9 +20,9 @@ def home():
         num = request.form['num']
 
         updated_fridge = c.add_item(text, num)
-        open_file('fridge.json', "w", updated_fridge)
+        open_file('data/fridge.json', "w", updated_fridge)
 
-    FRIDGE = open_file('fridge.json')
+    FRIDGE = open_file('data/fridge.json')
     name = c.check_resource()
     return render_template("index.html", fridge=FRIDGE.items(), food=name)
 
@@ -36,7 +36,7 @@ def info(food):
 @ app.route('/update/<food>', methods=['GET', 'POST'])
 def find(food):
     FRIDGE = c.update_fridge(food)
-    open_file('fridge.json', "w", FRIDGE)
+    open_file('data/fridge.json', "w", FRIDGE)
     return redirect("/")
 
 

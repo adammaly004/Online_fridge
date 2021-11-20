@@ -3,62 +3,66 @@
         "name": "Pala\u010dinky1",
         "resource": {
             "vejce": 2,
-            "mléko": 500,
+            "ml\u00e9ko": 500,
             "mouka": 500,
             "cukr": 10,
-            "marmeláda": 20,
+            "marmel\u00e1da": 20,
             "olej": 10,
-            "sůl": 10
+            "s\u016fl": 10
         },
         "procedure": "Do m\u00edsy p\u0159id\u00e1me vejce, ml\u00e9ko, olej, s\u016fl, cukr a mouku. V\u0161e sm\u00edch\u00e1me v mix\u00e9ru a\u017e bude t\u011bsto \u0159\u00eddk\u00e9. Rozp\u00e1l\u00edme p\u00e1nev, d\u00e1me do n\u00ed olej a nech\u00e1me a\u017e se rozp\u00e1l\u00ed. P\u0159ebyte\u010dn\u00fd olej d\u00e1me do t\u011bsta a zam\u00edch\u00e1me. Nabereme si do nab\u011bra\u010dky t\u011bsto a lijeme po sm\u011bru hodinov\u00fdch ru\u010di\u010dek. Po\u010dk\u00e1me ne\u017e okraje za\u010dnou hn\u011bdnout a pak to oto\u010d\u00edme na druhou stranu a po\u010dk\u00e1me (cca 2 minuty). Tento cel\u00fd proces opakujeme, pokud m\u00e1me je\u0161t\u011b t\u011bsto.",
+        "img": "https://ms2.ostium.cz/instance/web-recepty/jO4GLqff/h389w574t.jpg",
         "url": "https://www.recepty.cz/recept/palacinky-164287"
     },
     {
-        "name": "Chleba s máslem",
+        "name": "Chleba s m\u00e1slem",
         "resource": {
             "chleba": 1,
-            "máslo": 10
+            "m\u00e1slo": 10
         },
-        "procedure": "Namaž chleba",
+        "procedure": "Nama\u017e chleba",
+        "img": "",
         "url": ""
     },
     {
-        "name": "Svíčková na smetaně",
+        "name": "Sv\u00ed\u010dkov\u00e1 na smetan\u011b",
         "resource": {
             "cibule": 1,
-            "sůl": 10,
+            "s\u016fl": 10,
             "mouka": 10,
             "olej": 10,
             "slanina": 10,
-            "hovězí": 900,
+            "hov\u011bz\u00ed": 900,
             "smetana": 300,
-            "bobkový list": 0.5,
-            "nové koření": 10,
+            "bobkov\u00fd list": 0.5,
+            "nov\u00e9 ko\u0159en\u00ed": 10,
             "citron": 10,
-            "vývar": 10,
-            "pepř": 10,
-            "kořenová zelenina": 300,
+            "v\u00fdvar": 10,
+            "pep\u0159": 10,
+            "ko\u0159enov\u00e1 zelenina": 300,
             "brusinky": 10,
             "cukr": 10
         },
         "procedure": "Sv\u00ed\u010dkovou osol\u00edme, protkneme 2/3 slaniny nakr\u00e1jen\u00e9 na kl\u00ednky a na tuku zprudka po v\u0161ech stran\u00e1ch ope\u010deme. Maso za chv\u00edli vyjmeme, p\u0159id\u00e1me zbytek na kosti\u010dky nakr\u00e1jen\u00e9 slaniny, o\u010di\u0161t\u011bnou na pl\u00e1tky nakr\u00e1jenou zeleninu, cibuli a osmahneme do sv\u011btlehn\u011bda. Pak znovu vlo\u017e\u00edme maso, p\u0159id\u00e1me ko\u0159en\u00ed, m\u00edrn\u011b podlijeme a dus\u00edme v troub\u011b. Maso pol\u00e9v\u00e1me \u0161\u0165\u00e1vou a podle pot\u0159eby podl\u00e9v\u00e1me v\u00fdvarem. M\u011bkk\u00e9 maso vyjmeme, \u0161\u0165\u00e1vu vydus\u00edme na tuk, zapr\u00e1\u0161\u00edme moukou, osmahneme a postupn\u011b \u0159ed\u00edme zbytkem v\u00fdvaru a smetanou. Om\u00e1\u010dku dochut\u00edme cukrem, citronovou \u0161\u0165\u00e1vou nebo octem a dob\u0159e pova\u0159\u00edme. Potom om\u00e1\u010dku prolisujeme p\u0159es cedn\u00edk. Nalijeme ji na maso a je\u0161t\u011b na plotn\u011b proh\u0159ejeme. Maso nakr\u00e1j\u00edme na pl\u00e1tky. Pod\u00e1v\u00e1me s knedl\u00edky a brusinkami nebo ryb\u00edzov\u00fdm d\u017eemem.",
+        "img": "https://ms1.ostium.cz/instance/web-recepty/jCqFWQrs/h389w574t.jpg",
         "url": "https://www.recepty.cz/recept/svickova-na-smetane-233"
     },
     {
         "name": "Gul\u00e1\u0161",
         "resource": {
             "cibule": 2,
-            "sůl": 10,
+            "s\u016fl": 10,
             "mouka": 10,
-            "hovězí": 0.5,
-            "mletá paprika": 10,
-            "pepř": 10,
+            "hov\u011bz\u00ed": 0.5,
+            "mlet\u00e1 paprika": 10,
+            "pep\u0159": 10,
             "chleba": 1,
             "chilli": 10,
-            "majoránka": 10,
-            "kmín": 10
+            "major\u00e1nka": 10,
+            "km\u00edn": 10
         },
         "procedure": "Sv\u00ed\u010dkovou osol\u00edme, protkneme 2/3 slaniny nakr\u00e1jen\u00e9 na kl\u00ednky a na tuku zprudka po v\u0161ech stran\u00e1ch ope\u010deme. Maso za chv\u00edli vyjmeme, p\u0159id\u00e1me zbytek na kosti\u010dky nakr\u00e1jen\u00e9 slaniny, o\u010di\u0161t\u011bnou na pl\u00e1tky nakr\u00e1jenou zeleninu, cibuli a osmahneme do sv\u011btlehn\u011bda. Pak znovu vlo\u017e\u00edme maso, p\u0159id\u00e1me ko\u0159en\u00ed, m\u00edrn\u011b podlijeme a dus\u00edme v troub\u011b. Maso pol\u00e9v\u00e1me \u0161\u0165\u00e1vou a podle pot\u0159eby podl\u00e9v\u00e1me v\u00fdvarem. M\u011bkk\u00e9 maso vyjmeme, \u0161\u0165\u00e1vu vydus\u00edme na tuk, zapr\u00e1\u0161\u00edme moukou, osmahneme a postupn\u011b \u0159ed\u00edme zbytkem v\u00fdvaru a smetanou. Om\u00e1\u010dku dochut\u00edme cukrem, citronovou \u0161\u0165\u00e1vou nebo octem a dob\u0159e pova\u0159\u00edme. Potom om\u00e1\u010dku prolisujeme p\u0159es cedn\u00edk. Nalijeme ji na maso a je\u0161t\u011b na plotn\u011b proh\u0159ejeme. Maso nakr\u00e1j\u00edme na pl\u00e1tky. Pod\u00e1v\u00e1me s knedl\u00edky a brusinkami nebo ryb\u00edzov\u00fdm d\u017eemem.",
+        "img": "https://ms1.ostium.cz/instance/web-recepty/jevnbkhu/h389w574t.jpg",
         "url": "https://www.recepty.cz/recept/gulas-162586"
     },
     {
@@ -69,6 +73,7 @@
             "km\u00edn": 60.0
         },
         "procedure": "O\u010di\u0161t\u011bnou a omytou husu si p\u0159iprav\u00edme nejl\u00e9pe den p\u0159edem: d\u00e1me do pek\u00e1\u010de, d\u016fkladn\u011b nasol\u00edme, okm\u00ednujeme z obou stran a nech\u00e1me p\u0159es noc v lednici. P\u0159ed samotn\u00fdm pe\u010den\u00edm rozkroj\u00edme dv\u011b jablka a vlo\u017e\u00edme do husy, d\u00edky nim z\u016fstane husa hezky \u0161\u0165avnat\u00e1. Zbytek jablek rozkroj\u00edme na \u010dtvrtky a polo\u017e\u00edme je kolem husy.Podlijeme vodou, p\u0159\u00edpadn\u011b i svatomartinsk\u00fdm v\u00ednem, d\u00e1me do trouby, kterou jsme p\u0159edeh\u0159\u00e1li na 180 stup\u0148\u016f, a pe\u010deme 20 minut. N\u00e1sledn\u011b troubu st\u00e1hneme na 140 stup\u0148\u016f a za ob\u010dasn\u00e9ho podl\u00e9v\u00e1n\u00ed v\u00fdpekem pe\u010deme p\u0159ibli\u017en\u011b dal\u0161\u00ed \u010dty\u0159i hodiny (na prvn\u00ed dv\u011b m\u016f\u017eeme p\u0159ikr\u00fdt alobalem).\n3\nPro doc\u00edlen\u00ed k\u0159upav\u00e9 k\u016fr\u010di\u010dky na posledn\u00edch \u010dtvrt hodiny zv\u00fd\u0161\u00edme teplotu v troub\u011b na 240\u00b0C a poctiv\u011b co chv\u00edli pol\u00e9v\u00e1me v\u00fdpekem, Pop\u0159\u00edpadn\u011b zvedneme pek\u00e1\u010d do st\u0159edn\u00ed polohy v troub\u011b a zapneme na 10 minut gril.",
+        "img": "https://ms2.ostium.cz/instance/web-recepty/jhA7DCc2/h389w574t.jpg",
         "url": "https://www.recepty.cz/recept/svatomartinska-husa-5-hodin-pecena-162713"
     },
     {
@@ -82,6 +87,7 @@
             "vanilkov\u00fd cukr": 1.0
         },
         "procedure": "1\nV\u0161e dob\u0159e rozm\u00edch\u00e1me ponorn\u00fdm mix\u00e9rem na hladkou hmotu. Postupn\u011b sma\u017e\u00edme po obou stran\u00e1ch na p\u00e1nvi na l\u017ei\u010dce oleje. Doporu\u010duji pou\u017e\u00edvat speci\u00e1ln\u00ed p\u00e1nev na pala\u010dinky s n\u00edzk\u00fdm okrajem a nep\u0159ilnav\u00fdm povrchem.\nRADA: Jak ud\u011blat jemn\u00e9 a nad\u00fdchan\u00e9 pala\u010dinky\n2\nOt\u00e1\u010d\u00edme nadhozen\u00edm pala\u010dinky do vzduchu pomoc\u00ed p\u00e1nve, na kterou ji op\u011bt zachyt\u00edme (je to jednoduch\u00e9). T\u00edmto zp\u016fsobem se zaru\u010den\u011b nepotrh\u00e1. Hotov\u00e9 pala\u010dinky pot\u00edr\u00e1me marmel\u00e1dou a zdob\u00edme nap\u0159. \u0161leha\u010dkou, ovocem atd.\nRADA: Pod\u00edvejte se na VIDEO, jak ud\u011blat dom\u00e1c\u00ed pi\u0161kot",
+        "img": "https://ms2.ostium.cz/instance/web-recepty/jvqqSaqN/h389w574t.jpg",
         "url": "https://www.recepty.cz/recept/palacinky-13120"
     },
     {
@@ -97,6 +103,7 @@
             "\u017eemle": 250.0
         },
         "procedure": "1\nStar\u0161\u00ed housky nakr\u00e1j\u00edme na kosti\u010dky a lehce opra\u017e\u00edme v troub\u011b. Sm\u00edch\u00e1me je se \u017eloutky, nasekanou petr\u017eelkou, moukou a ml\u00e9kem, osol\u00edme, p\u0159id\u00e1me \u0161petku mu\u0161k\u00e1tov\u00e9ho kv\u011btu a b\u00edl\u00e9ho pep\u0159e a nech\u00e1me asi 10 minut odle\u017eet. Pot\u00e9 zlehka vm\u00edch\u00e1me sn\u00edh z b\u00edlk\u016f a t\u011bsto na karlovarsk\u00fd knedl\u00edk je hotov\u00e9.\nRADA: Jak vy\u0161lehat sn\u00edh z b\u00edlk\u016f?\n2\nVytvarujeme ho do \u00fahledn\u00e9 \u0161i\u0161ky. Aby se knedl\u00edk nerozpadal a m\u011bl hezk\u00fd tvar, zabal\u00edme ho do olejem vymazan\u00e9ho alobalu nebo potravinov\u00e9 f\u00f3lie, ve kter\u00e9 ho budeme asi 20 - 25 minut va\u0159it.\nRADA: Houskov\u00e9 knedl\u00edky: VIDEO n\u00e1vod krok za krokem",
+        "img": "https://ms3.ostium.cz/instance/web-recepty/jS7QECVg/h389w574t.jpg",
         "url": "https://www.recepty.cz/recept/karlovarsky-knedlik-140268"
     },
     {
@@ -113,6 +120,28 @@
             "rajsk\u00fd protlak": 1.0
         },
         "procedure": "1\nRozp\u00e1l\u00edme tro\u0161ku oleje a mlet\u00e9 maso na n\u011bm osmahneme, zapr\u00e1\u0161\u00edme moukou a p\u0159id\u00e1me rajsk\u00fd protlak a podlijeme vodou, aby sm\u011bs m\u011bla \u0159\u00eddkou ka\u0161ovitou konzistenci. P\u0159id\u00e1me masox, na kole\u010dka nakr\u00e1jen\u00fd p\u00f3rek, osol\u00edme, p\u0159id\u00e1me jemn\u011b pokr\u00e1jen\u00fd \u010desnek a dochut\u00edme ko\u0159en\u00edm. Nech\u00e1me asi deset minut prova\u0159it na m\u00edrn\u00e9m plameni. Pod\u00e1v\u00e1me se \u0161pagetami a strouhan\u00fdm s\u00fdrem.",
+        "img": "https://ms3.ostium.cz/instance/web-recepty/jovOupAz/h389w574t.jpg",
         "url": "https://www.recepty.cz/recept/bolonske-spagety-4270"
+    },
+    {
+        "name": "Jednoduch\u00e1 rajsk\u00e1 om\u00e1\u010dka",
+        "resource": {
+            "cibule": 1.0,
+            "m\u00e1slo": 40.0,
+            "s\u016fl": 22.5,
+            "hladk\u00e1 mouka": 90.0,
+            "h\u0159eb\u00ed\u010dek": 1.0,
+            "tymi\u00e1n": 10.0,
+            "bobkov\u00fd list": 3.0,
+            "nov\u00e9 ko\u0159en\u00ed": 14.0,
+            "v\u00fdvar": 1300.0,
+            "pep\u0159 cel\u00fd": 10.0,
+            "olej": 15.0,
+            "rajsk\u00fd protlak": 200.0,
+            "cukr krupice": 130.0
+        },
+        "procedure": "1\nNa rozpu\u0161t\u011bn\u00e9m m\u00e1sle s olejem si v hrnci nech\u00e1me dosklovata osma\u017eit pokr\u00e1jenou cibuli. B\u011bhem sma\u017een\u00ed p\u0159id\u00e1me rozvon\u011bt ko\u0159en\u00ed. Pot\u00e9 zapr\u00e1\u0161\u00edme moukou a um\u00edch\u00e1me sv\u011btlou j\u00ed\u0161ku. K j\u00ed\u0161ce p\u0159id\u00e1me rajsk\u00fd protlak a je\u0161t\u011b v\u0161e kr\u00e1tce za st\u00e1l\u00e9ho m\u00edch\u00e1n\u00ed sma\u017e\u00edme. Sma\u017een\u00edm protlaku na rajskou om\u00e1\u010dku \u010d\u00e1ste\u010dn\u011b sraz\u00edme jeho kyselost. V\u0161e zalijeme v\u00fdvarem a pokud v\u00fdvar nem\u00e1me, nic se ned\u011bje, posta\u010d\u00ed n\u00e1m voda.\nRADA: Velk\u00fd test m\u00e1sel: Jak dopadlo to va\u0161e?\n2\nV\u0161e \u0159\u00e1dn\u011b prom\u00edch\u00e1me, p\u0159id\u00e1me cukr (dle vlastn\u00ed chuti!) a s\u016fl a rajskou om\u00e1\u010dku p\u0159ivedeme za ob\u010dasn\u00e9ho prom\u00edch\u00e1n\u00ed k varu. Pova\u0159\u00edme cca 10 minut, b\u011bhem va\u0159en\u00ed dle sv\u00e9 chuti p\u0159\u00edpadn\u011b dosol\u00edme nebo doslad\u00edme.\nRADA: Pod\u00edvejte se na VIDEO, jak p\u0159ipravit j\u00ed\u0161ku\n3\nNakonec om\u00e1\u010dku jen p\u0159eced\u00edme, abychom z n\u00ed odstranili ko\u0159en\u00ed a m\u016f\u017eeme pod\u00e1vat s houskov\u00fdm knedl\u00edkem nebo t\u011bstovinami. Pokud se neobejdeme bez masa, m\u016f\u017eeme k rajsk\u00e9 om\u00e1\u010dce p\u0159idat pl\u00e1tek sekan\u00e9 nebo karban\u00e1tek.\nRADA: Jak uva\u0159it ty nejlep\u0161\u00ed houskov\u00e9 knedl\u00edky. Mrkn\u011bte na VIDEO!\n4\nOm\u00e1\u010dka je velmi rychl\u00e1, nepot\u0159ebujeme \u017e\u00e1dn\u00e9 v\u00fdvary, extra sma\u017een\u00ed j\u00ed\u0161ky, dokonce i cibuli (pokud ji nem\u00e1me r\u00e1di) m\u016f\u017eeme vynechat a d\u011blat j\u00ed\u0161ku bez n\u00ed, rovnou s ko\u0159en\u00edm.\nRADA: Recepty z raj\u010dat s v\u016fn\u00ed St\u0159edomo\u0159\u00ed\n5\nRajsk\u00e1 om\u00e1\u010dka je vhodn\u00e1 nap\u0159\u00edklad i k pln\u011bn\u00fdm paprik\u00e1m s mlet\u00fdm masem, kde p\u0159edpe\u010den\u00e9 papriky zalijeme om\u00e1\u010dkou a dope\u010deme spole\u010dn\u011b.\nRADA: Jak udr\u017eet rajskou om\u00e1\u010dku teplou i v om\u00e1\u010dn\u00edku",
+        "img": "https://ms1.ostium.cz/instance/web-recepty/jOUEi1sd/h389w574t.jpg",
+        "url": "https://www.recepty.cz/recept/jednoducha-rajska-omacka-155495"
     }
 ]
